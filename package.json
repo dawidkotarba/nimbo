@@ -30,17 +30,17 @@
     "tailwindcss": "^1.9.6",
     "tailwindcss-truncate-multiline": "^1.0.3",
     "tslib": "^2.0.3",
-    "typescript": "^3.9.3"
+    "typescript": "^3.9.8"
   },
   "dependencies": {
     "broadcast-channel": "^3.3.0",
-    "dexie": "^3.0.3",
+    "dexie": "^3.2.2",
     "dexie-export-import": "^1.0.0",
     "dompurify": "^2.2.6",
     "file-saver": "^2.0.5",
     "flatpickr": "^4.6.8",
     "fuzzysort": "^1.1.4",
-    "marked": "^1.2.7",
+    "marked": "^1.2.9",
     "nanoid": "^3.1.20",
     "parse-duration": "^0.4.4",
     "sirv-cli": "^1.0.10",
